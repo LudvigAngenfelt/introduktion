@@ -1,7 +1,7 @@
 import pytest
 
 
-@pytest.mark.skip('Not implemented yet.')
+
 def test_find_max():
     from exercises.find_max import find_max
 
